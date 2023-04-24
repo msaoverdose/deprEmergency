@@ -1,8 +1,8 @@
-# IEEE-ODTU-Vodafone-Hackathon-Ars-Scientia
+# Ars-Scientia
 ![1](https://user-images.githubusercontent.com/49487581/232286575-e726e1e3-f220-4c82-9248-b2a354cdabf9.png)
 
 
-Hackathon : Ars Scientia Takımı
+Ars Scientia Takımı
 # deprEmergency
 
 Deprem öncesi, deprem anında bulunmanız gereken potansiyel noktaları ve güvenli alanları değerlendiren bir mobil uygulama.
