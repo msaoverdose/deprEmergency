@@ -1,6 +1,8 @@
 import cv2
 import numpy as np
 import random
+import matplotlib.pyplot as plt
+
 img = cv2.imread("a.png")
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
@@ -32,5 +34,9 @@ for i, c in enumerate(contours):
     cv2.rectangle(img, (x, y), (x + w, y + h), (x1, y2, z3), 3)
     cv2.putText(img, "Oda {}".format(i+1), (center_x, center_y), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 43, 255), 3)
 cv2.imshow("HOUSE", img)
+
+plt.imshow(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
+plt.show()
+
 cv2.waitKey(0)
 cv2.destroyAllWindows()
