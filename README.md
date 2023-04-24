@@ -35,4 +35,4 @@ Uygulamamız kısa uzun vadede OpenCV gibi bir kütüphane ile desteklenirse kul
 
 
 ## Geliştiriciler
-Mehmet Semih ARSLAN & Yusuf KOZAN & Ayşe OKULMUŞ
+Mehmet Semih ARSLAN & Yusuf KOZAN & Ayşe OKULMUŞ & Görkem ...
